@@ -8,4 +8,4 @@ This is my 360 image
 ###Camera Effects
 
 ![filter](mariohat.jpg?raw=true "Optional Title")
-***
+
