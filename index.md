@@ -9,3 +9,6 @@ This is my 360 image
 
 ![filter](mariohat.png?raw=true "Optional Title")
 
+###Isle2 StoryScape
+<script src="/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/yumba/isle2" ></script>
+
